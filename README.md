@@ -26,9 +26,10 @@ me.say_hi()
 ## 📝 Blogs
 
 - Personal website and blog: https://github.com/XoshimovRahmatillo
-- Instagram: @_khosh1mov_08
+- Instagram: https://www.instagram.com/_khosh1mov_08/
 - [WIP] LeetCode Solutions & Notes: https://leetcode.com/u/_khosh1mov_08/
-
+- Robocontect : https://robocontest.uz/profile/khosh1mov08
+- Facebook : https://www.facebook.com/share/GiegsfCEktdTjkUi/
 
 ## 🔧 Technologies & Tools
 
